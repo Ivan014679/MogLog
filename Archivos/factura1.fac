@@ -1,0 +1,10 @@
+Factura Nº1
+Fecha: Sun May 28 19:56:54 COT 2017
+
+Cliente: aaa		Cédula: 111
+
+Cantidad		Productos		Valor unitario		Valor total
+10		a		1		10.0
+
+Subtotal:						10.0
+IVA: 1.9		Descuento: 0.0		TOTAL: 11.9
